@@ -50,8 +50,20 @@
     color: white;
     text-align: center;
     width: 1350px;
-    height:500px;
-    
+    height:150px;
+    font-size: 18px;
+       
+}
+
+.rodape .socialMedia {
+    font-size: 3.5em;
+    padding-top: 3px;
+              
+}
+
+.rodape .socialMedia i {
+    padding: 20px;
+
 }
  
  
