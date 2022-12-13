@@ -15,15 +15,16 @@
     min-height: 100vh;
    background:url(img/Venezuela2.jpg) no-repeat center center ;
     background-size: cover;
+  
 }
-.conteudo__cabecalho { color: black; font: 800 20px Arial; margin-bottom: 10px;}
+.conteudo__cabecalho { color: black; font: 900 30px Arial; margin-bottom: 10px; }
 
 /* PRODUTO */
 .produto__container {
     display: grid;
     grid-template-columns: auto auto auto auto;
     justify-content: space-between;
-    row-gap: 30px;
+    row-gap: 80px;
     column-gap: 30px;
     padding: 0 20px;
 }
@@ -31,20 +32,26 @@
     background-color: #efefef;
     width: 250px;
     border-radius: 10px;
-    padding: 10px;
+    padding: 40px;
     font-size: 18px;
     text-align: center;
 }
+.produto:hover{
+    transform: translateY(-15px);
+    box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+}
 .produto__img { width: 190px; }
 .produto__nome { font: 500 19px Arial }
-.produto__precio { text-align: center; margin: 10px; font: 700 20px Arial; }
+.produto__precio { text-align: center; margin: 20px; font: 700 20px Arial; }
 
 /* RODAPÉ */
 .rodape {
-    background-color: red;
+    background-color: black;
     color: white;
-    padding: 10px;
-    text-align: center
+    text-align: center;
+    width: 1350px;
+    height:500px;
+    
 }
  
  

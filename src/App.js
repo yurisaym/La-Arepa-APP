@@ -3,6 +3,7 @@ import Catalogo from './components/Catalogo';
 import Header from './components/Header';
 import Navbar from './components/Navbar';
 import Inicio from './components/Inicio';
+import Footer from './components/Footer';
 import {BrowserRouter as Router, Switch , Route, link} from 'react-router-dom'
 
 
@@ -35,6 +36,7 @@ class Produto{
     <Navbar/>
     <Inicio/>
     <Catalogo produtos={produtos}/>
+    <Footer/>
     </div>
   );
   }
