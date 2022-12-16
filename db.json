@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "title": "Arepa Domino",
+      "price": 11.49,
+      "thumbnail": "https://i.pinimg.com/originals/32/b9/39/32b93970f8da223f60838fc2b2c05850.jpg",
+      "id": 1,
+      "description": "Recheada de feijao, queijo banana da terra "
+    },
+    {
+      "title": "Arepa Rainha",
+      "price": 11.49,
+      "thumbnail": "https://somoscocineros.com/assets/uploads/recipes/147/receta-de-arepas-con-pollo-aguacate-y-mayonesa-920-520.jpg",
+      "id": 3,
+      "description": "Recheada de frango com abacate uma verdadeira rainha da gastronomia venezuelana"
+    },
+    {
+      "title": "Arepa com Frango",
+      "price": "5.49",
+      "thumbnail": "https://artessanafood.com/wp-content/uploads/2021/07/Arepas-de-pollo-LArtessana-1001x445.jpg",
+      "description": "Rrecheada com frango desfiado em molho de tomate",
+      "id": 4
+    },
+    {
+      "title": "Arepa con Atun",
+      "id": 5,
+      "thumbnail": "https://enrilemoine.com/wp-content/uploads/2016/08/1.-Tuna-Salad-Arepa-SAVOIR-FAIRE-by-enrilemoine-1024x683.jpg",
+      "description": "Recheada de atun com tomate, cebola, coentro e maionese",
+      "price": "16.5",
+      "cuca": "sin pene"
+    },
+    {
+      "title": "arepa ",
+      "description": "pernil",
+      "price": "10",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0397/7353/6414/products/Arepa_pernil_viarepa_1024x1024@2x.png?v=1590608277",
+      "id": 6
+    },
+    {
+      "title": "Arepa de anis ",
+      "description": "é uma arepa feita de farinha de milho  rapadura e sementes de anis recheada com queijo",
+      "price": "15.20",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0397/7353/6414/products/Arepa_dulce2_viarepa_1024x1024@2x.jpg?v=1590614691",
+      "id": 7
+    }
+  ]
+}
